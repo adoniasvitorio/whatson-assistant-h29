@@ -1,0 +1,8 @@
+{
+  "name": "whatson-assistant-h29",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/adoniasvitorio/whatson-assistant-h29.git",
+  "author": "Adonias Vitorio <adonias.vitorio@gmail.com>",
+  "license": "MIT"
+}
