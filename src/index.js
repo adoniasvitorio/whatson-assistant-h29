@@ -9,6 +9,6 @@ mongoose.connect('mongodb+srv://wtn-h29:wtn-h29@cluster0.t2jhc.mongodb.net/wtnh2
 });
 
 app.use(express.json());
-
+app.use(routes);
 
 app.listen(3333);
