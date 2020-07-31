@@ -41,7 +41,13 @@ module.exports = {
                 specialties: specialtiesArray,
             });
         }
-
-        return response.json(newOrganization);
+        const message = {
+            messahe: "congratulations !, Yoour account has ben created !",
+            organization_code: "123456",
+            url_notifications: "https://whatson-assistant-h29/{organization_code}/notifications",
+            url_conversation: "https://whatson-assistant-h29/{organization_code}/notifications",
+            status: 200
+        }
+        return response.json(message);
     }
 }
