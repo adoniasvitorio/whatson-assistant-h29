@@ -17,4 +17,4 @@ const organizationsSchema = new mongoose.Schema({
     specialties: [String],
 });
 
-module.exports = mongoos.model('organizations', organizationsSchema);
+module.exports = mongoose.model('organizations', organizationsSchema);
