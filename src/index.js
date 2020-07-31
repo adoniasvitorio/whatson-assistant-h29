@@ -9,8 +9,5 @@ mongoose.connect('mongodb+srv://wtn-h29:wtn-h29@cluster0.t2jhc.mongodb.net/wtnh2
 
 app.use(express.json());
 
-app.get('/', (request, response) =>{
-    return response.json({ message: "hello world !, I'm assistant bot" });
-});
 
 app.listen(3333);
