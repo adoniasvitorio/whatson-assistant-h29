@@ -1,5 +1,8 @@
-# WAH
+# WATSON ASSISTANT HEALTH
 
+<h1 align="center">
+<img src="./src/assets/image.png" alt="logo de capa" width="900px" />
+</h1>
 
 ## Projeto.
 
