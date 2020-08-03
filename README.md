@@ -24,7 +24,7 @@ Este projeto foi Iniciado durante o Evento **IBM - Call For Code Hackathon - Cov
  * [mongoDB](https://www.mongodb.com/cloud/atlas) - Neste projeto foi utilizado mongoDB para persistir os dados. Utilizando um Cluster do mongoDB Atlas para servir a aplicação.
 
 ## IBM
-Neste projeto foam utilizados os serviços de **Cluster** e **Watson Assistant** da IBM.
+Neste projeto foram utilizados os serviços de **Cluster** e **Watson Assistant** da IBM.
 
 
 
